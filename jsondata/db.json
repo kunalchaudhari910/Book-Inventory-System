@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Shyamchi Aai",
+      "author": "Sane Guruji",
+      "publishedDate": "1935",
+      "publisher": "Chitrashala Press",
+      "overview": "A touching autobiographical novel about Sane Guruji's childhood and the profound influence of his mother."
+    },
+    {
+      "id": 2,
+      "title": "Shriman Yogi",
+      "author": "Ranjit Desai",
+      "publishedDate": "1967",
+      "publisher": "Mouj Prakashan",
+      "overview": "A historical novel based on the life of Chhatrapati Shivaji Maharaj's father, Shahaji Raje Bhosale."
+    },
+    {
+      "id": 3,
+      "title": "Yayati",
+      "author": "Vishnu Sakharam Khandekar",
+      "publishedDate": "1949",
+      "publisher": "Sahitya Akademi",
+      "overview": "A mythological novel exploring themes of desire, renunciation, and the human condition."
+    },
+    {
+      "id": 4,
+      "title": "Mi Navhech",
+      "author": "Pu La Deshpande",
+      "publishedDate": "1966",
+      "publisher": "Mauj Prakashan",
+      "overview": "An autobiographical work by renowned Marathi writer Pu La Deshpande, known for its humor and wit."
+    },
+    {
+      "id": 5,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publishedDate": "1954",
+      "publisher": "George Allen & Unwin",
+      "overview": "An epic fantasy tale set in Middle-earth."
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "publishedDate": "1997",
+      "publisher": "Bloomsbury",
+      "overview": "The story of a young wizard who discovers his magical abilities."
+    },
+    {
+      "id": 7,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "publishedDate": "1979",
+      "publisher": "Pan Books",
+      "overview": "A humorous science fiction adventure."
+    },
+    {
+      "id": 8,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishedDate": "1925",
+      "publisher": "Charles Scribner's Sons",
+      "overview": "A story of love, wealth, and the American Dream in the Roaring Twenties."
+    },
+    {
+      "id": 9,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publishedDate": "1951",
+      "publisher": "Little, Brown and Company",
+      "overview": "A coming-of-age story narrated by a disillusioned teenager."
+    },
+    {
+      "id": 10,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "publishedDate": "1967",
+      "publisher": "Sudamericana",
+      "overview": "A magical realism novel chronicling the history of the Buendía family."
+    }
+  ]
+}
