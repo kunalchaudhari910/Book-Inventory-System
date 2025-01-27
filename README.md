@@ -1,3 +1,4 @@
+#Run npm install and do following steps :
 ##Step 1 : open json server Go to command "cd jsondata",
 ##Step 2 : then type next command "npx json-server --watch db.json", it will open to Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ##Step 3 : run following command "npm start"
